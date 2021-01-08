@@ -1,1 +1,2 @@
-# PRO-33-w-bugs
+
+Boiler plate code for students with comments as hints
